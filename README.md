@@ -3,7 +3,7 @@
 A data warehouse and Power BI dashboard built on the **Olist Brazilian E-Commerce** dataset.
 It turns 9 raw files into one clean view of **sales, delivery, and customer satisfaction**.
 
-> **Course:** IT3101 – Data Warehousing and Business Intelligence
+> **Module:** Data Warehousing and Business Intelligence
 > **Degree:** BSc (Hons) Information Technology, Data Science specialization
 > **University:** Sri Lanka Institute of Information Technology (SLIIT)
 
