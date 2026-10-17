@@ -2,6 +2,7 @@
 
 A data warehouse and Power BI dashboard built on the **Olist Brazilian E-Commerce** dataset.
 It turns 9 raw files into one clean view of **sales, delivery, and customer satisfaction**.
+
 Module: Data Warehousing and Business Intelligence (Group Assignment) Tool: SSMS, Power BI
 
 ## Table of Contents
