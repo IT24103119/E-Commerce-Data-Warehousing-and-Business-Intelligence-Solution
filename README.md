@@ -254,17 +254,6 @@ flowchart LR
 | Drill-down | Year → Quarter → Month in Monthly Revenue | Find the cause of a change |
 | Roll-up | Month → Quarter → Year | See the big picture |
 
-### Screenshots
-
-<!-- Add your images to an "images" folder, then keep or edit these paths. -->
-
-![Overview](images/overview.png)
-![Delivery](images/delivery.png)
-![Customer Satisfaction](images/customer_satisfaction.png)
-![Seller and Product](images/seller_product.png)
-
----
-
 ## Key Insights
 
 1. **Sales trend:** Revenue peaked in November 2017 (about 1.18M) and stayed around 1M per month in 2018.
