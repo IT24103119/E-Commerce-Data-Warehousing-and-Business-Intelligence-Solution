@@ -323,16 +323,6 @@ flowchart LR
 
 ---
 
-## Team
-
-| Name | GitHub |
-|---|---|
-| Christian Oersted Dominic Jeeva | [@Oersted12](https://github.com/Oersted12) |
-| Ahamed M.A | [@username](https://github.com/username) |
-| Umayanthi R.G.A.A | [@username](https://github.com/username) |
-
-**Lecturer:** [Lecturer name], Lecturer in Charge of IT3101, SLIIT
-
 ---
 
 ## Acknowledgements
